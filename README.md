@@ -1,2 +1,2 @@
 # PalaDev
-Playwright Challenges fixeS
+Playwright Challenges fixes
